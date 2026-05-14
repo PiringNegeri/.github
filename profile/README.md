@@ -59,9 +59,7 @@ To set up the backend API locally:
 ## 📩 Contact
 For inquiries or support, please reach out via:
 * **GitHub Issues:** For bug reports and feature requests.
-* **Email:** support@piringnegeri.com
+* **Email:** dev.muhamadrizapahlevi@gmail.com
 
 ---
-**PiringNegeri** - *Serving the Richness of the Archipelago in One Hand.*
-README.md
-Menampilkan README.md.
+**PiringNegeri** - *Makanan Bergizi Gratis? Aman, Nyaman, Tenang.*
