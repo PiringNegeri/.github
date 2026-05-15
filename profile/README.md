@@ -17,12 +17,12 @@ Our ecosystem is built with a focus on performance, scalability, and seamless us
 
 | Component | Technology |
 | :--- | :--- |
-| **Language** | TypeScript / JavaScript |
-| **API Framework** | Node.js / Express |
+| **Language** | JavaScript |
+| **API Framework** | Express |
 | **Web Framework** | Astro |
 | **Mobile Framework** | React Native |
-| **Database** | (e.g., PostgreSQL / MongoDB) |
-| **Documentation** | Swagger / Open API |
+| **Database** | PostgreSQL |
+| **Documentation** | SOON! |
 
 ---
 
